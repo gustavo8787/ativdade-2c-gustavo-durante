@@ -1,0 +1,9 @@
+body{background-color: aqua;
+}
+@media screen and (max-width: 770px) {
+ 
+    .part1 {color: brown;
+    
+    font-size: 150%;
+}
+  }
