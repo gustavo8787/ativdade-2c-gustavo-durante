@@ -13,3 +13,10 @@ body{background-color: aqua;
 }
 .part1{margin-left: 20%;}
 
+.part2{margin-left: 20%;
+border-style: double;
+border-width: 6px;}
+
+part3{margin-left: 20%;
+border-style: double;
+border-width: 6px;}
