@@ -7,3 +7,8 @@ body{background-color: aqua;
     font-size: 150%;
 }
   }
+  .part1{border-color: blue;
+  border-style: double;
+  border-width: 6px;
+}
+.part1{margin-left: 20%;}
